@@ -1,0 +1,6 @@
+gateway:
+  api:
+    auth_url: "http://localhost:8080/api/auth"
+    base_url: "http://localhost:8080"
+    username: "humans"
+    password: "hil123"

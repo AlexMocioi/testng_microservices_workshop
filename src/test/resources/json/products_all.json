@@ -1,0 +1,26 @@
+[
+  {
+    "id": 4,
+    "name": "phillips monitor 13\"",
+    "description": "monitor lcd 13\"",
+    "price": 300.5
+  },
+  {
+    "id": 2,
+    "name": "coca cola",
+    "description": "suc",
+    "price": 12
+  },
+  {
+    "id": 1,
+    "name": "lays",
+    "description": "chipsuri",
+    "price": 10
+  },
+  {
+    "id": 3,
+    "name": "magnum",
+    "description": "inghetata",
+    "price": 8
+  }
+]
